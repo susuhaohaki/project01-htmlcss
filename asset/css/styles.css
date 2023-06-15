@@ -640,6 +640,10 @@ footer .desc {
     width: 28.47px;
     height: 28.47px;
     border-radius: 3px;
+    background: #646464;
+}
+.footer .social-link + .social-link {
+    margin: 16px;
 }
 
 .footer .social-link:hover {
